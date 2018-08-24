@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Environments>
+  <Environment>Adfs.Bskyb.com (Test)</Environment>
+  <Environment>Sts.Bskyb.com (Prod)</Environment>
+</Environments>
